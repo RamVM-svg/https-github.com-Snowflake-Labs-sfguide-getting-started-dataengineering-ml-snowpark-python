@@ -1,9 +1,9 @@
 {
-  "account"   : "UFKHUQP.EX72070",
-  "user"      : "RAMVM",
-  "password"  : "Lakshmi@123$",
-  "role"      : "ORGADMIN",
-  "warehouse" : "COMPUTE_WH",
-  "database"  : "DASH_DB",
-  "schema"    : "DASH_SCHEMA"
+  "account"   : "",
+  "user"      : "",
+  "password"  : "",
+  "role"      : "",
+  "warehouse" : "",
+  "database"  : "",
+  "schema"    : ""
 }
